@@ -11,7 +11,7 @@ Ini Adalah Script Untuk Crack Akun Instagram, Untuk Cara Menggunakannya Bisa Lih
     $ pkg install python
     $ pip install requests
     $ pip install futures
-    $ git clone https://github.com/fazly36/whoig
+    $ git clone https://github.com/fazly36/Premium2
     $ cd Premium
     
     $ python Prem.py
