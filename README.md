@@ -11,12 +11,12 @@ Ini Adalah Script Untuk Crack Akun Instagram, Untuk Cara Menggunakannya Bisa Lih
     $ pkg install python
     $ pip install requests
     $ pip install futures
-    $ git clone https://github.com/RozhakXD/Premium
+    $ git clone https://github.com/fazly36/Premium
     $ cd Premium
-    $ git pull
+    
     $ python Prem.py
 # Sosial Media
-    • Fb : https://free.facebook.com/rozhak.xyz
-    • Ig : https://www.instagram.com/rozhak_official
-    • Yt : https://www.youtube.com/rozhakid
-    • Wa : https://wa.me/6283847921480
+    • Fb : 
+    • Ig : 
+    • Yt : 
+    • Wa : 
